@@ -1,1 +1,2 @@
 add line1
+fix some thing
